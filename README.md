@@ -25,10 +25,10 @@ Use Otsu's method to segment the image.
 Display the results.
 
 Program
+~~~
 Developed by: NAVEENKUMAR V
 Register Number: 212221230068
 # Load the necessary packages
-~~~
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
